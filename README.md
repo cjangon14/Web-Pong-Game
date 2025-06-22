@@ -4,7 +4,7 @@ A simple two-player Pong game built with **HTML5 Canvas** and **JavaScript**. Th
 
 ## 🎮 Features
 - Two-player control: `W/S` for Player 1, `↑/↓` for Player 2
-- Speed increases after paddle hits
+- Speed increases after the paddle hits
 - Score tracking and game reset
 
 ## 🔗 Live Preview
@@ -17,7 +17,7 @@ A simple two-player Pong game built with **HTML5 Canvas** and **JavaScript**. Th
 
 ## 📷 Preview
 <!-- Add your own screenshot in the project folder -->
-![Pong Game Preview](![pong-portfolio01](https://github.com/user-attachments/assets/63acbd7a-dcf6-49d0-9dd6-320e8a0973fb))
+![Pong Game Preview](![image](https://github.com/user-attachments/assets/d6bd2aec-bda4-434d-a7ee-52b3d7ef338f))
 
 ## 📁 Files
 - `index.html`
