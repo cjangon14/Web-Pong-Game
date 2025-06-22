@@ -8,7 +8,7 @@ A simple two-player Pong game built with **HTML5 Canvas** and **JavaScript**. Th
 - Score tracking and game reset
 
 ## 🔗 Live Preview
-[🔗 View Demo (Placeholder)](https://cjangon14.github.io/Web-Pong-Game/)
+[🔗 View Demo ](https://cjangon14.github.io/Web-Pong-Game/)
 
 ## 🧪 Tech Stack
 - HTML5
@@ -17,7 +17,8 @@ A simple two-player Pong game built with **HTML5 Canvas** and **JavaScript**. Th
 
 ## 📷 Preview
 <!-- Add your own screenshot in the project folder -->
-![Pong Game Preview](![image](https://github.com/user-attachments/assets/d6bd2aec-bda4-434d-a7ee-52b3d7ef338f))
+![image](https://github.com/user-attachments/assets/3fa7627c-35b8-4e87-8690-5f77047d2dc6)
+
 
 ## 📁 Files
 - `index.html`
