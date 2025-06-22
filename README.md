@@ -17,8 +17,7 @@ A simple two-player Pong game built with **HTML5 Canvas** and **JavaScript**. Th
 
 ## 📷 Preview
 <!-- Add your own screenshot in the project folder -->
-![Pong Game Preview](![pong-portfolio01](https://github.com/user-attachments/assets/63acbd7a-dcf6-49d0-9dd6-320e8a0973fb)
-)
+![Pong Game Preview](![pong-portfolio01](https://github.com/user-attachments/assets/63acbd7a-dcf6-49d0-9dd6-320e8a0973fb))
 
 ## 📁 Files
 - `index.html`
